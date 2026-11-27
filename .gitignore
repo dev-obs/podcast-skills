@@ -1,0 +1,15 @@
+# Keep episode inputs and outputs outside this source repository.
+/work/
+/release/
+/episodes/
+*.flac
+*.wav
+*.mp3
+*.m4a
+*.zip
+*.vtt
+*.srt
+.env
+.env.*
+__pycache__/
+.DS_Store
